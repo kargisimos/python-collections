@@ -1,0 +1,9 @@
+pypiwin32
+pycryptodome==3.14.1
+scapy==2.4.5
+requests==2.27.1
+pillow==9.1.0
+beautifulsoup4==4.11.1
+pyperclip==1.8.2
+pynput==1.7.6
+flask==2.2.2
